@@ -1,0 +1,17 @@
+{
+  "CONTRACT_ADDRESS": "0x8BD457dCc57e0C19079DFF792522c4987FFbc8B9",
+  "SCAN_LINK": "https://polygonscan.com/token/0x8bd457dcc57e0c19079dff792522c4987ffbc8b9",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Feesh",
+  "SYMBOL": "FEESH",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/feesh",
+  "SHOW_BACKGROUND": true
+}
